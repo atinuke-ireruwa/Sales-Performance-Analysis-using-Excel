@@ -28,52 +28,39 @@ The analysis was structured in a systematic and data-driven workflow to ensure c
 
 1. Data Collection
 Extracted sales data from Nova Retail Solutions’ internal system.
-
 Ensured data covered key fields: Order Date, Product Category, Sales, Profit, Region, Shipping Mode, and Sub-Category.
 
 2. Data Cleaning and Preparation
 Removed duplicates and corrected inconsistencies (e.g., missing values, incorrect data types).
-
 Standardized formats (e.g., date, currency).
-
 Created calculated fields to support analysis (e.g., profit margin, shipping delay).
 
 3. Exploratory Data Analysis (EDA)
 Analyzed overall sales and profit distributions.
-
 Identified top-performing and underperforming product categories.
-
 Visualized regional performance and market patterns.
 
 4. Trend Analysis
 Created time-series charts to evaluate sales and profit trends over time.
-
 Highlighted seasonal patterns and growth/decline phases.
 
 5. Regional Performance Analysis
 Compared profit and sales across different regions.
-
 Identified high-potential markets and underperforming areas.
 
 6. Shipping Performance Assessment
 Evaluated shipping modes and their impact on delivery time and customer satisfaction.
-
 Assessed shipping delays and their correlation with region or product type.
 
 7. Product Profitability Analysis
 Ranked products and categories based on profitability and sales volume.
-
 Pinpointed loss-making items and potential candidates for promotion or phase-out.
 
 8. Dashboard Creation
 Built interactive Excel dashboards summarizing:
-
 Sales Trends
-
 Regional Profitability
-
 Shipping Efficiency
-
 Product-Level Insights
 
 9. Insights and Recommendations
