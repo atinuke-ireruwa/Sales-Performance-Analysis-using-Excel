@@ -96,3 +96,7 @@ transaction value per customer.
 - Collectively, these strategies are designed to drive sales growth through targeted product optimization, strategic pricing, and enhanced customer
 engagement in the coming years.
 
+# Thank You
+![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/1e6eeb62-bf11-4147-b9b3-b14306006688)
+
+
