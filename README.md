@@ -1,4 +1,4 @@
-# Utilizing Excel for visualising sales performance & profit trends at Nova Retail Solution.
+# Utilizing Excel for Visualising Sales Performance & Profit Trends at Nova Retail Solution.
 ![Blue Grey Modern Dental Clinic  Medical Instagram  Post](https://github.com/user-attachments/assets/f350c3e3-34f1-4e51-8006-1fd24cfab81b)
 
 Disclaimer⚠️: All datasets and reports do not contain real proprietary, confidential, or sensitive information from any company, institution, or
@@ -97,6 +97,8 @@ transaction value per customer.
 engagement in the coming years.
 
 # Thank You
+
+Kindly go through the uploaded files for further details on this repo. For further enquiries on this project, kindly reach out to me:
 ![White Minimalist Corporate Personal Profile LinkedIn Banner](https://github.com/user-attachments/assets/1e6eeb62-bf11-4147-b9b3-b14306006688)
 
 
