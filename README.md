@@ -33,8 +33,8 @@ market landscape.
 The analysis was structured in a systematic and data-driven workflow to ensure comprehensive insights and actionable outcomes:
 
 1. Data Collection:
-Extracted sales data from Nova Retail Solutions’ internal system.
-Ensured data covered key fields: Order Date, Product Category, Sales, Profit, Region, Shipping Mode, and Sub-Category.
+- Extracted sales data from Nova Retail Solutions’ internal system.
+- Ensured data covered key fields: Order Date, Product Category, Sales, Profit, Region, Shipping Mode, and Sub-Category.
 
 2. Data Cleaning and Preparation:
 - Removed duplicates and corrected inconsistencies (e.g., missing values, incorrect data types).
@@ -42,7 +42,7 @@ Ensured data covered key fields: Order Date, Product Category, Sales, Profit, Re
 - Created calculated fields to support analysis (e.g., profit margin, shipping delay).
 ![Screenshot 2025-05-23 004205](https://github.com/user-attachments/assets/d4e1874a-103d-4dcd-9299-c6f4401678cd)
 
-3. Exploratory Data Analysis (EDA): Used PivotTables to
+3. Exploratory Data Analysis (EDA): Used PivotTables to;
 - Analyse overall sales and profit distributions.
 - Identify top-performing and underperforming product categories.
 - Visualise  regional performance and market patterns.
